@@ -3,7 +3,6 @@ public class Demo{
         int a=20;
         int b=200;
         System.out.println("hii Demo");
-        System.out.println(a);
-        System.out.println(b);
+        System.out.println(a+b);
     }
 }
